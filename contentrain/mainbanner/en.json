@@ -1,0 +1,12 @@
+[
+  {
+    "ID": "10cca9c72d43",
+    "createdAt": "Wed Jan 03 2024 15:22:38 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Wed Jan 03 2024 15:22:38 GMT+0300 (GMT+03:00)",
+    "title": "My title",
+    "description": "My Description",
+    "image": "public/assets/1704284439020_final_page-0001.jpg",
+    "Icerik": "<p>This is <strong>test</strong> </p>",
+    "status": "draft"
+  }
+]
