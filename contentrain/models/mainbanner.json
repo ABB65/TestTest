@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "image",
+    "fieldId": "image",
+    "modelId": "mainbanner",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
