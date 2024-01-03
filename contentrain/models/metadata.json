@@ -1,0 +1,9 @@
+[
+  {
+    "name": "MainBanner",
+    "modelId": "mainbanner",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
