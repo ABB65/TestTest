@@ -25,5 +25,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "Icerik",
+    "fieldId": "icerik",
+    "modelId": "mainbanner",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
