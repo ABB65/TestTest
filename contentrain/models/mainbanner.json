@@ -13,8 +13,22 @@
     "fieldId": "description",
     "modelId": "mainbanner",
     "componentId": "multi-line-text",
-    "options": {},
-    "validations": {},
+    "options": {
+      "title-field": {
+        "value": false
+      },
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
     "fieldType": "string"
   },
   {
