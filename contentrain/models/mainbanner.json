@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "arkdeo",
+    "fieldId": "arkdeo",
+    "modelId": "mainbanner",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
