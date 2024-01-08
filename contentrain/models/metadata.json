@@ -5,5 +5,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "dsasda d",
+    "modelId": "dsasda-d",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
