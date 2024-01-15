@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "safgg",
+    "fieldId": "safgg",
+    "modelId": "dsasda-d",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  }
+]
