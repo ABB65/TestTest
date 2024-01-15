@@ -7,5 +7,23 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "dsfdssd",
+    "fieldId": "dsfdssd",
+    "modelId": "dsasda-d",
+    "componentId": "rating",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "rating": {
+            "value": 3
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "number"
   }
 ]
