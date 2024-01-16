@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "content",
+    "fieldId": "content",
+    "modelId": "posts",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
