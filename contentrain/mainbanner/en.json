@@ -11,12 +11,12 @@
   },
   {
     "ID": "4a4819f1e70d",
-    "createdAt": "Wed Jan 17 2024 15:36:38 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Wed Jan 17 2024 15:36:38 GMT+0300 (GMT+03:00)",
+    "createdAt": "2024-01-17T12:36:38.000Z",
+    "updatedAt": "2024-01-17T12:37:32.571Z",
+    "status": "draft",
     "title": "adsd",
     "description": "adsdas",
-    "icerik": "<p>dasdasdas</p>",
-    "arkdeo": "",
-    "status": "draft"
+    "icerik": "<p></p>",
+    "arkdeo": "asdasd"
   }
 ]
