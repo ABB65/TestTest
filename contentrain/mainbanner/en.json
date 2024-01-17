@@ -2,11 +2,11 @@
   {
     "ID": "10cca9c72d43",
     "createdAt": "2024-01-03T12:22:38.000Z",
-    "updatedAt": "2024-01-17T11:56:41.611Z",
+    "updatedAt": "2024-01-17T11:58:28.099Z",
     "status": "draft",
     "title": "My title",
     "description": "My Description",
-    "Icerik": "<p>fasdfadsfadsf</p>",
+    "Icerik": "<h2><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"anchor-heading\" href=\"https://tanstack.com/table/v8/docs/api/features/column-visibility#table-options\"><strong><u>Table Options</u></strong></a></h2><p> </p><h3><code>onColumnVisibilityChange</code></h3><p>tsx</p><pre><code class=\"language-tsx\">onColumnVisibilityChange?: OnChangeFn&lt;VisibilityState&gt;</code></pre><p style=\"text-align: start\">If provided, this function will be called with an <code>updaterFn</code> when <code>state.columnVisibility</code> changes. This overrides the default internal state management, so you will need to persist the state change either fully or partially outside of the table.</p>",
     "arkdeo": "dasda das d d"
   }
 ]
