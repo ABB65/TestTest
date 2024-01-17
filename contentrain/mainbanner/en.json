@@ -18,5 +18,12 @@
     "description": "adsdas",
     "icerik": "<p></p>",
     "arkdeo": "asdasd"
+  },
+  {
+    "ID": "4aeb03b0676c",
+    "createdAt": "Wed Jan 17 2024 15:38:00 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Wed Jan 17 2024 15:38:00 GMT+0300 (GMT+03:00)",
+    "description": "dasasdas",
+    "status": "draft"
   }
 ]
