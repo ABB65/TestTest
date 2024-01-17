@@ -8,5 +8,15 @@
     "description": "My Description",
     "icerik": "<p>sasd asd</p>",
     "arkdeo": "dasda das d d"
+  },
+  {
+    "ID": "4a4819f1e70d",
+    "createdAt": "Wed Jan 17 2024 15:36:38 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Wed Jan 17 2024 15:36:38 GMT+0300 (GMT+03:00)",
+    "title": "adsd",
+    "description": "adsdas",
+    "icerik": "<p>dasdasdas</p>",
+    "arkdeo": "",
+    "status": "draft"
   }
 ]
